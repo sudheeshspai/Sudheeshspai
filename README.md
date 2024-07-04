@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub itself]
 
-- 📝 I regularly write articles on [https://github.com/TheShieldSquad](https://github.com/TheShieldSquad)
-
 - 📫 How to reach me **https://www.linkedin.com/in/sudheesh-s-pai-36ab8a290/**
 
 - ⚡ Fun fact **Life is a lie until you get out of matrix**

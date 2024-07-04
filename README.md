@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudheeshspai&label=Profile%20views&color=0e75b6&style=flat" alt="sudheeshspai" /> </p>
 
-<p align="left"> <a href="https://twitter.com/paisudheesh" target="blank"><img src="https://img.shields.io/twitter/follow/paisudheesh?logo=twitter&style=for-the-badge" alt="paisudheesh" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [GitHub itself]
 
 - 📝 I regularly write articles on [https://github.com/TheShieldSquad](https://github.com/TheShieldSquad)

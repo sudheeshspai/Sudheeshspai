@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/paisudheesh" target="blank"><img src="https://img.shields.io/twitter/follow/paisudheesh?logo=twitter&style=for-the-badge" alt="paisudheesh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub itself](GitHub itself)
+- 👨‍💻 All of my projects are available at [GitHub itself]
 
 - 📝 I regularly write articles on [https://github.com/TheShieldSquad](https://github.com/TheShieldSquad)
 

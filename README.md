@@ -1,5 +1,5 @@
-[![MasterHead](https://github.com/Sudheeshspai/Sudheeshspai/blob/f31ff8a5a279f95316a53ba182416c823498e74e/MS.png)]()                  
-<h1 align="center">Hi👨‍💻</h1>
+[![MasterHead](https://github.com/sudheeshspai/Sudheeshspai/blob/5592cbc6136c51e2b8f94889e3a54190d1fc8f4c/mrbhak%20h.png)]()                  
+<h1 align="center"><b>Coding life of a bhakth👨‍💻</b></h1>
 <h3 align="center">Real name sudheesh s pai</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 

@@ -1,11 +1,11 @@
 [![MasterHead](https://github.com/Sudheeshspai/Sudheeshspai/blob/f31ff8a5a279f95316a53ba182416c823498e74e/MS.png)]()                  
-<h1 align="center">Hi👨‍💻 , I'm MatrixSpectator</h1>
+<h1 align="center">Hi👨‍💻</h1>
 <h3 align="center">Real name sudheesh s pai</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudheeshspai&label=Profile%20views&color=0e75b6&style=flat" alt="sudheeshspai" /> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub itself]
+- 👨‍💻 All of my projects are available in [GitHub itself]
 
 - 📫 How to reach me **https://www.linkedin.com/in/sudheesh-s-pai-36ab8a290/**
 

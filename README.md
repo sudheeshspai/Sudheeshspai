@@ -1,8 +1,8 @@
 <h1 align="center"><b>Coding life of a pai👨‍💻</b></h1>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYxNDByY2h3bjZybjd0Z2V1OWM0NXp4MDVyZXhzZ3NtdTZueml4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.webp">
 
-<p align="left"> <img src="https://images.app.goo.gl/KfY2KteBTuNH8Uan7" alt="sudheeshspai" /> </p>
+<p align="left"> <img src="" alt="sudheeshspai" /> </p>
 
 - 👨‍💻 All of my projects are available in [GitHub itself]
 

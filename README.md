@@ -1,5 +1,5 @@
-<h1 align="center"><b>Coding life of a bhakth👨‍💻</b></h1>
-<h3 align="center">Real name sudheesh s pai</h3>
+<h1 align="center"><b>Coding life of a pai👨‍💻</b></h1>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudheeshspai&label=Profile%20views&color=0e75b6&style=flat" alt="sudheeshspai" /> </p>

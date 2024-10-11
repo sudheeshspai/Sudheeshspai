@@ -2,7 +2,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYxNDByY2h3bjZybjd0Z2V1OWM0NXp4MDVyZXhzZ3NtdTZueml4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.webp">
 
-<p align="left"> <img src="" alt="sudheeshspai" /> </p>
 
 - 👨‍💻 All of my projects are available in [GitHub itself]
 
